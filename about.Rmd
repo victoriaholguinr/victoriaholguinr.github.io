@@ -1,5 +1,5 @@
 ---
-title: "Hello Wolrd!"
+title: "About This Website"
 author: "Victoria Holguin"
 date: "`r Sys.Date()`"
 output: html_document
@@ -9,6 +9,4 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-## Welcome to my website
-
-
+This is an R Markdown document.
