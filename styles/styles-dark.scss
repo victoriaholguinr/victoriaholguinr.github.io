@@ -1,0 +1,35 @@
+/*-- scss:defaults --*/
+
+$font-family-sans-serif: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif !default;
+$font-family-serif: "Fraunces", Georgia, "Times New Roman", serif !default;
+$headings-font-family: $font-family-serif !default;
+$headings-font-weight: 600 !default;
+$font-size-root: 17px !default;
+
+// 2. Colour palette
+$primary: #b9c9d9 !default; // lighter pine green for contrast on dark bg
+$secondary: #18BC9C !default;
+$body-bg: #334249 !default;
+$body-color: #e6e6e6 !default;
+
+// 3. Layout & components
+$navbar-bg: #375A7F !default;
+$navbar-fg: #f2f2f2 !default;
+$footer-bg: #0e1112 !default;
+$footer-fg: #b7b7b7 !default;
+
+$toc-font-size: 0.82em !default;
+$code-block-font-size: 0.82em !default;
+$table-striped-bg: #f6f5f1 !default;
+
+/*-- scss:rules --*/
+
+.quarto-grid-item {
+  &:hover {
+    box-shadow: 0 10px 24px rgba(0, 0, 0, 0.45);
+  }
+}
+
+.about-entity .about-image {
+  box-shadow: 0 6px 24px rgba(0, 0, 0, 0.45);
+}

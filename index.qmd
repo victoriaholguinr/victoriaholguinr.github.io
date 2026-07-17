@@ -1,0 +1,51 @@
+---
+title: "Victoria Holguin"
+image: files/img/profile.jpg
+toc: false
+about:
+  id: hero-heading
+  template: trestles
+  image-width: 20em
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:victoriaholguinr@gmail.com
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/victoriaholguinr
+---
+
+::: {#hero-heading}
+
+¡Hola Mundo!
+
+Estudié economía en la Universidad Nacional de San Antonio Abad del Cusco. Mis intereses están relacionados al campo de la microeconomía, las políticas públicas y la ciencia de datos.
+
+Me entusiasma aprender nuevos temas y aplicar mis conocimientos. En mi tiempo libre disfruto escuchar música y leer mangas.
+
+<hr>
+
+Hello World!
+
+I studied economics at the National University of San Antonio Abad in Cusco. My interests are mainly related to microeconomics, public policy and data science.
+
+I am enthusiastic about learning and applying my knowledge. In my free time, I enjoy listening to music and reading manga. I also enjoy practicing my conversational skills in English, French, and Portuguese.
+<hr>
+
+## Research interests
+
+Economics of education· Development economics · Applied microeconometrics ·
+Program evaluation
+
+## Education
+
+#### <i class="bi bi-mortarboard-fill"></i>  **MSc in Economics Engineering**
+National University of Engineering 
+
+2026-2027 (expected)
+
+#### <i class="bi bi-mortarboard-fill"></i>  **BA in Economics**
+Universidad Nacional de San Antonio Abad del Cusco
+
+2023
+

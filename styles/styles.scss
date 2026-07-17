@@ -1,0 +1,93 @@
+/*-- scss:defaults --*/
+
+// 1. Fonts 
+$font-family-sans-serif: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif !default;
+$font-family-serif: "Fraunces", Georgia, "Times New Roman", serif !default;
+$headings-font-family: $font-family-serif !default;
+$headings-font-weight: 600 !default;
+$font-size-root: 24px !default;
+
+// 2. Colour palette
+$primary: #2C3E50 !default;  
+$secondary: #18BC9C !default;  
+$body-color: #23272a !default;
+$body-bg: #fdfdfb !default;
+// ¡ELIMINADA LA LÍNEA DEL LINK COLOR! Deja que el tema (flatly) lo maneje solo.
+
+// 3. Layout & components
+$navbar-bg: $primary !default;
+$navbar-fg: #f3f1ec !default;
+$footer-bg: #f3f1ec !default;
+$footer-fg: #4a4a4a !default;
+
+$toc-font-size: 0.82em !default;
+$code-block-font-size: 0.82em !default;
+$table-striped-bg: #f6f5f1 !default;
+
+/*-- scss:rules --*/
+
+// Global type rhythm ------------------------------------------------------
+body {
+  line-height: 1.65;
+}
+
+h1, h2, h3, h4 {
+  letter-spacing: -0.01em;
+}
+
+.navbar-title {
+  font-family: $font-family-serif;
+  font-weight: 700;
+}
+
+// Quarto "about" page (used on index.qmd) --------------------------------
+.about-entity .about-image {
+  box-shadow: 0 6px 24px rgba(0, 0, 0, 0.12);
+}
+
+.about-links a {
+  transition: opacity .15s ease-in-out;
+  &:hover { opacity: .7; }
+}
+
+// Listing cards (blog + projects) -----------------------------------------
+.quarto-grid-item {
+  border-radius: .5rem;
+  overflow: hidden;
+  transition: transform .18s ease-in-out, box-shadow .18s ease-in-out;
+
+  &:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 10px 24px rgba(0, 0, 0, 0.10);
+  }
+}
+
+.listing-date, .quarto-post .date {
+  color: $secondary;
+  font-weight: 500;
+  text-transform: uppercase;
+  font-size: .78em;
+  letter-spacing: .04em;
+}
+
+// Category / tag pills -----------------------------------------------------
+.quarto-listing-category, .listing-categories .listing-category {
+  border-radius: 999px;
+  border: 1px solid rgba(0, 0, 0, 0.12);
+  padding: .15rem .65rem;
+  font-size: .75em;
+}
+
+// Footer ---------------------------------------------------------------
+.nav-footer {
+  background-color: $footer-bg;
+  color: $footer-fg;
+  font-size: .85em;
+  max-height: 8px; margin: 0 auto;
+}
+
+// Reduce sidebar/toc chrome for a calmer academic look -------------------
+#quarto-sidebar,
+#quarto-margin-sidebar {
+  font-size: .92em;
+}

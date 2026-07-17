@@ -1,0 +1,109 @@
+project:
+  type: website
+  output-dir: _site
+  render:
+    - "*.qmd"
+    - "!drafts/"
+  resources:
+    - "files/"
+    - "robots.txt"
+
+execute:
+  freeze: auto        # re-render only when a .qmd or its dependencies change
+
+website:
+  title: "Victoria Holguin"
+  description: "Economist specializing in economics of education and applied econometrics."
+  site-url: "https://victoriaholguinr.github.io/"      # -> https://username.github.io/reponame if it's a project site
+  repo-url: "https://github.com/victoriaholguinr/victoriaholguinr.github.io"
+  favicon: files/img/favicon.png
+  open-graph: true
+  twitter-card: false
+  page-navigation: true
+  back-to-top-navigation: false
+  bread-crumbs: false
+  #google-analytics: ""          # add your GA4 measurement id, or delete this line
+
+  navbar:
+    background: primary
+    pinned: true #logo: files/img/logo.png
+    
+    left:
+      - text: "Sobre mí"
+        href: index.qmd
+      - text: "Investigación"
+        href: research/index.qmd
+      - text: "Proyectos"
+        href: projects/index.qmd
+      - text: "Blog"
+        href: blog/index.qmd
+      - text: "CV"
+        href: files/cv/cv.pdf
+    right:
+      - icon: envelope
+        href: mailto:victoriaholguinr@gmail.com
+        aria-label: Email
+      - icon: github
+        href: https://github.com/victoriaholguinr
+        aria-label: GitHub
+      - icon: linkedin
+        href: https://www.linkedin.com/in/victoriaholguinr
+        aria-label: LinkedIn
+      #- text: "{{< ai google-scholar >}}"
+      #  href: https://scholar.google.com/citations?user=XXXXXXX
+      #  aria-label: Google Scholar
+      #- text: "{{< ai orcid >}}"
+      #  href: https://orcid.org/0000-0000-0000-0000
+      #  aria-label: ORCID
+
+  sidebar:
+    - id: blog
+      title: "Blog"
+      style: floating
+      collapse-level: 1
+      contents: "blog/posts/**/index.qmd"
+    - id: research
+      title: "Investigación"
+      style: floating
+      collapse-level: 1
+      contents: [research/index.qmd]
+    - id: projects
+      title: "Proyectos"
+      contents:
+        - projects/index.qmd
+        - section: "Todos los proyectos"
+          contents: [projects/example-shiny-dashboard.qmd, projects/example-r-package.qmd]
+
+  page-footer:
+    left: |
+      © 2026  Victoria Holguin · Content licensed [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
+    center: |
+      Built with [Quarto](https://quarto.org)
+    right:
+      - icon: github
+        href: https://github.com/victoriaholguinr
+      - icon: rss
+        href: blog/index.xml
+
+format:
+  html:
+    theme:
+      light: [flatly, styles/styles.scss]
+      dark: [darkly, styles/styles-dark.scss]
+    include-in-header:
+      - text: |
+          <link rel="preconnect" href="https://fonts.googleapis.com">
+          <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+          <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,600;9..144,700&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+    toc: true
+    code-link: true
+    smooth-scroll: true
+    grid:
+      sidebar-width: 150px    # Reducimos los paneles laterales que no usas en la portada
+      body-width: 1000px      # ¡Aumentamos drásticamente el espacio de tu contenido!
+      margin-width: 150px     # Reducimos el margen derecho
+      gutter-width: 1.5em
+    fontsize: 1.20em
+    highlight-style: github
+
+editor: source

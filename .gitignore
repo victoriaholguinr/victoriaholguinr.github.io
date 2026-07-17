@@ -1,0 +1,27 @@
+# Quarto render output & cache (never commit rendered HTML)
+/.quarto/
+/_site/
+/site_libs/
+
+# Freeze results ARE meant to be committed (needed for reproducible CI
+# builds without re-executing code) — do not ignore /_freeze/
+
+# R
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# OS / editor cruft
+.DS_Store
+Thumbs.db
+.vscode/
+*.swp
+
+**/*.quarto_ipynb

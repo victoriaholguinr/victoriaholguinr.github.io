@@ -1,0 +1,60 @@
+---
+title: "Investigación"
+subtitle: "Published and working papers"
+page-layout: article
+toc: true
+toc-location: right
+---
+
+*Pronto habrá algo aquí.*
+
+![](images/en_desarrollo.png){fig-align="center"}
+
+```{r}
+#| eval: false
+#| include: false
+
+## Published & forthcoming
+
+### Title of Paper One
+
+#**Jane Doe**, Co-author Name. *Journal of Something*, forthcoming.
+
+#[{{< fa file-pdf >}} PDF](files/papers/paper-one.pdf)  \|  [{{< fa link >}} Published version](https://doi.org/10.xxxx/xxxxx)  \|  [{{< fa code >}} Replication code](https://github.com/username/paper-one-replication)
+
+#> One or two sentence abstract summarising the question, method, and headline result.
+
+#------------------------------------------------------------------------
+
+### Title of Paper Two
+
+#**Jane Doe**. *Another Journal*, 20XX, vol. X, pp. XX–XX.
+
+#[{{< fa file-pdf >}} PDF](files/papers/paper-two.pdf)  \|  [{{< fa link >}} Published version](https://doi.org/10.xxxx/xxxxx)
+
+#> Abstract sentence.
+
+## Working papers
+
+### Title of Working Paper
+
+#**Jane Doe**, Co-author Name. *Under review*.
+
+#[{{< fa file-pdf >}} Draft](files/papers/working-paper.pdf)  \|  [{{< fa code >}} Code & data](https://github.com/username/working-paper-repo)
+
+#> Abstract sentence describing the contribution.
+
+## Work in progress
+
+#- **Title of Project** (with Co-author) — *data collection stage*
+#- **Title of Project** — *draft in preparation*
+```
+
+```{r}
+#| eval: false
+#| include: false
+#------------------------------------------------------------------------
+# ::: callout-note
+#Full BibTeX entries are available in [`references.bib`](references.bib) for anyone who wants to cite this work directly.
+# :::
+```
