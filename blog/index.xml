@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>Victoria Holguin</title>
+<link>https://victoriaholguinr.github.io/blog/</link>
+<atom:link href="https://victoriaholguinr.github.io/blog/index.xml" rel="self" type="application/rss+xml"/>
+<description>Economist specializing in economics of education and applied econometrics.</description>
+<generator>quarto-1.9.38</generator>
+<lastBuildDate>Thu, 16 Jul 2026 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>Welcome to my new site</title>
+  <link>https://victoriaholguinr.github.io/blog/posts/2026-07-16-welcome-post/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>This is the first post on my site, built with <a href="https://quarto.org">Quarto</a> and published through GitHub Pages.</p>
+<section id="por-qué-quarto" class="level2">
+<h2 class="anchored" data-anchor-id="por-qué-quarto">¿Por qué Quarto?</h2>
+<ul>
+<li>Es una herramienta con muchas funcionalidades y que permite mostrar código de R, Python, STATA o simplemente Markdown.</li>
+<li>Tiene soporte nativo para citas, código y figuras reproducibles.</li>
+<li>Hay muchos tutoriales en internet sobre Quarto.</li>
+</ul>
+</section>
+<section id="qué-viene-ahora" class="level2">
+<h2 class="anchored" data-anchor-id="qué-viene-ahora">¿Qué viene ahora?</h2>
+<p>Esperen publicaciones sobre flujos de trabajo e informes de proyectos.</p>
+
+
+</section>
+
+ ]]></description>
+  <category>meta</category>
+  <guid>https://victoriaholguinr.github.io/blog/posts/2026-07-16-welcome-post/</guid>
+  <pubDate>Thu, 16 Jul 2026 00:00:00 GMT</pubDate>
+  <media:content url="https://victoriaholguinr.github.io/blog/posts/2026-07-16-welcome-post/thumb.png" medium="image" type="image/png" height="81" width="144"/>
+</item>
+</channel>
+</rss>

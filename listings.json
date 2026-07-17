@@ -1,0 +1,15 @@
+[
+  {
+    "listing": "/blog/index.html",
+    "items": [
+      "/blog/posts/2026-07-16-welcome-post/index.html"
+    ]
+  },
+  {
+    "listing": "/projects/index.html",
+    "items": [
+      "/projects/example-shiny-dashboard.html",
+      "/projects/example-r-package.html"
+    ]
+  }
+]

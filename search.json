@@ -1,0 +1,176 @@
+[
+  {
+    "objectID": "research/index.html",
+    "href": "research/index.html",
+    "title": "Investigación",
+    "section": "",
+    "text": "Pronto habrá algo aquí.",
+    "crumbs": [
+      "Investigación"
+    ]
+  },
+  {
+    "objectID": "projects/example-shiny-dashboard.html",
+    "href": "projects/example-shiny-dashboard.html",
+    "title": "Esta es una prueba",
+    "section": "",
+    "text": "Short description of the problem this project solves and who it is for.\n&lt;!–",
+    "crumbs": [
+      "Proyectos",
+      "Todos los proyectos",
+      "Esta es una prueba"
+    ]
+  },
+  {
+    "objectID": "projects/example-shiny-dashboard.html#overview",
+    "href": "projects/example-shiny-dashboard.html#overview",
+    "title": "Esta es una prueba",
+    "section": "",
+    "text": "Short description of the problem this project solves and who it is for.\n&lt;!–",
+    "crumbs": [
+      "Proyectos",
+      "Todos los proyectos",
+      "Esta es una prueba"
+    ]
+  },
+  {
+    "objectID": "projects/example-shiny-dashboard.html#what-it-does",
+    "href": "projects/example-shiny-dashboard.html#what-it-does",
+    "title": "Esta es una prueba",
+    "section": "What it does",
+    "text": "What it does\n\nPulls data from X API / source\nCleans and harmonises series across regions\nServes an interactive dashboard for exploring trends",
+    "crumbs": [
+      "Proyectos",
+      "Todos los proyectos",
+      "Esta es una prueba"
+    ]
+  },
+  {
+    "objectID": "projects/example-shiny-dashboard.html#links",
+    "href": "projects/example-shiny-dashboard.html#links",
+    "title": "Esta es una prueba",
+    "section": "Links",
+    "text": "Links\n&lt;!– -  Live app -  Source code",
+    "crumbs": [
+      "Proyectos",
+      "Todos los proyectos",
+      "Esta es una prueba"
+    ]
+  },
+  {
+    "objectID": "projects/example-shiny-dashboard.html#screenshot",
+    "href": "projects/example-shiny-dashboard.html#screenshot",
+    "title": "Esta es una prueba",
+    "section": "Screenshot",
+    "text": "Screenshot",
+    "crumbs": [
+      "Proyectos",
+      "Todos los proyectos",
+      "Esta es una prueba"
+    ]
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Victoria Holguin",
+    "section": "",
+    "text": "Email\n  \n  \n    \n     LinkedIn\n  \n\n  \n  \n¡Hola Mundo!\nEstudié economía en la Universidad Nacional de San Antonio Abad del Cusco. Mis intereses están relacionados al campo de la microeconomía, las políticas públicas y la ciencia de datos.\nMe entusiasma aprender nuevos temas y aplicar mis conocimientos. En mi tiempo libre disfruto escuchar música y leer mangas.\n\nHello World!\nI studied economics at the National University of San Antonio Abad in Cusco. My interests are mainly related to microeconomics, public policy and data science.\nI am enthusiastic about learning and applying my knowledge. In my free time, I enjoy listening to music and reading manga. I also enjoy practicing my conversational skills in English, French, and Portuguese.\n\n\n\nEconomics of education· Development economics · Applied microeconometrics · Program evaluation\n\n\n\n\n\nNational University of Engineering\n2026-2027 (expected)\n\n\n\nUniversidad Nacional de San Antonio Abad del Cusco\n2023"
+  },
+  {
+    "objectID": "index.html#research-interests",
+    "href": "index.html#research-interests",
+    "title": "Victoria Holguin",
+    "section": "",
+    "text": "Economics of education· Development economics · Applied microeconometrics · Program evaluation"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Victoria Holguin",
+    "section": "",
+    "text": "National University of Engineering\n2026-2027 (expected)\n\n\n\nUniversidad Nacional de San Antonio Abad del Cusco\n2023"
+  },
+  {
+    "objectID": "blog/index.html",
+    "href": "blog/index.html",
+    "title": "Blog",
+    "section": "",
+    "text": "Welcome to my new site\n\n\n\nmeta\n\n\n\nWhy I built my personal website with Quarto, and what’s coming next.\n\n\n\n\n\nJul 16, 2026\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "blog/posts/2026-07-16-welcome-post/index.html",
+    "href": "blog/posts/2026-07-16-welcome-post/index.html",
+    "title": "Welcome to my new site",
+    "section": "",
+    "text": "This is the first post on my site, built with Quarto and published through GitHub Pages.",
+    "crumbs": [
+      "Welcome to my new site"
+    ]
+  },
+  {
+    "objectID": "blog/posts/2026-07-16-welcome-post/index.html#por-qué-quarto",
+    "href": "blog/posts/2026-07-16-welcome-post/index.html#por-qué-quarto",
+    "title": "Welcome to my new site",
+    "section": "¿Por qué Quarto?",
+    "text": "¿Por qué Quarto?\n\nEs una herramienta con muchas funcionalidades y que permite mostrar código de R, Python, STATA o simplemente Markdown.\nTiene soporte nativo para citas, código y figuras reproducibles.\nHay muchos tutoriales en internet sobre Quarto.",
+    "crumbs": [
+      "Welcome to my new site"
+    ]
+  },
+  {
+    "objectID": "blog/posts/2026-07-16-welcome-post/index.html#qué-viene-ahora",
+    "href": "blog/posts/2026-07-16-welcome-post/index.html#qué-viene-ahora",
+    "title": "Welcome to my new site",
+    "section": "¿Qué viene ahora?",
+    "text": "¿Qué viene ahora?\nEsperen publicaciones sobre flujos de trabajo e informes de proyectos.",
+    "crumbs": [
+      "Welcome to my new site"
+    ]
+  },
+  {
+    "objectID": "projects/example-r-package.html",
+    "href": "projects/example-r-package.html",
+    "title": "Otra prueba .rpackage",
+    "section": "",
+    "text": "pruebar provides a tidy interface for cleaning and harmonising data (labels, missing codes, weights) across multiple survey rounds. &lt;!– ## Installation\n# install.packages(\"pak\")\npak::pak(\"username/pruebar\")",
+    "crumbs": [
+      "Proyectos",
+      "Todos los proyectos",
+      "Otra prueba .rpackage"
+    ]
+  },
+  {
+    "objectID": "projects/example-r-package.html#overview",
+    "href": "projects/example-r-package.html#overview",
+    "title": "Otra prueba .rpackage",
+    "section": "",
+    "text": "pruebar provides a tidy interface for cleaning and harmonising data (labels, missing codes, weights) across multiple survey rounds. &lt;!– ## Installation\n# install.packages(\"pak\")\npak::pak(\"username/pruebar\")",
+    "crumbs": [
+      "Proyectos",
+      "Todos los proyectos",
+      "Otra prueba .rpackage"
+    ]
+  },
+  {
+    "objectID": "projects/example-r-package.html#links",
+    "href": "projects/example-r-package.html#links",
+    "title": "Otra prueba .rpackage",
+    "section": "Links",
+    "text": "Links\n\n Source & documentation\n Package website (pkgdown)",
+    "crumbs": [
+      "Proyectos",
+      "Todos los proyectos",
+      "Otra prueba .rpackage"
+    ]
+  },
+  {
+    "objectID": "projects/index.html",
+    "href": "projects/index.html",
+    "title": "Proyectos",
+    "section": "",
+    "text": "Esta es una prueba\n\n\n\nR\n\nShiny\n\ndata-viz\n\n\n\nAn interactive Shiny/Observable dashboard.\n\n\n\nMay 1, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\nOtra prueba .rpackage\n\n\n\nR\n\npackage\n\nopen-source\n\n\n\nAn R package for standardising and cleaning data.\n\n\n\nNov 12, 2025\n\n\n\n\n\n\nNo matching items",
+    "crumbs": [
+      "Proyectos"
+    ]
+  }
+]

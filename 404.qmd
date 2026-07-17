@@ -1,9 +1,0 @@
----
-title: "Page not found"
-toc: false
-page-layout: full
----
-
-The page you're looking for doesn't exist (anymore).
-
-Try the [home page](/) or the [blog](/blog/index.html).
