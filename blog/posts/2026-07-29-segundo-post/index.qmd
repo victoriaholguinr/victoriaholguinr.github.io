@@ -2,14 +2,25 @@
 title: Segundo Post
 description: "Esta es una prueba siguiendo un tutorial"
 date: '2026-07-29'
-image: "imagen.jpeg"
+image: "imagen.png"
 categories:
   - prueba
-  
 ---
-**Hola esta es una prueba**
 
 ## Quarto es maravilloso
 
+**Hola esta es una prueba**
 
+Hoy participé en un taller del [*Grupo de usuari\@s de R: Santiago*](https://santiagorusers.github.io/) sobre la creación de páginas web con [**Quarto**]{.underline} y [**R**.]{.underline} La explicación fue muy clara y me alegró encontrar una guía práctica en español.
 
+A continuación detallo una lista de sitios que pueden ser útiles y conocí en el taller.
+
+- [Bootswatch](https://bootswatch.com/): permite revisar distintos temas para usar en Quarto.
+
+- [Font awesome](https://fontawesome.com/): para buscar íconos que podemos agregar al sitio web.
+
+- [Coolors](https://coolors.co/?home): para encontrar una paleta de colores que se ajuste a nuestros gustos personales.
+
+Al finalizar el taller, realicé pequeños cambios en el color de la barra de navegación y los tipos de fuentes usando [Google Fonts](https://fonts.google.com/?query=ve&preview.script=Latn).
+
+La información completa del taller y los materiales se encuentran en este [link](https://santiagorusers.github.io/posts/taller_julio_2026/).
