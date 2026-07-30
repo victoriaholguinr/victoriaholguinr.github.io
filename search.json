@@ -132,7 +132,7 @@
     "href": "blog/posts/2026-07-29-segundo-post/index.html",
     "title": "Segundo Post",
     "section": "",
-    "text": "Hola esta es una prueba",
+    "text": "Hola esta es una prueba\nHoy participé en un taller del Grupo de usuari@s de R: Santiago sobre la creación de páginas web con Quarto y R. La explicación fue muy clara y me alegró encontrar una guía práctica en español.\nA continuación detallo una lista de sitios que pueden ser útiles y conocí en el taller.\n\nBootswatch: permite revisar distintos temas para usar en Quarto.\nFont awesome: para buscar íconos que podemos agregar al sitio web.\nCoolors: para encontrar una paleta de colores que se ajuste a nuestros gustos personales.\n\nAl finalizar el taller, realicé pequeños cambios en el color de la barra de navegación y los tipos de fuentes usando Google Fonts.\nLa información completa del taller y los materiales se encuentran en este link.",
     "crumbs": [
       "Segundo Post"
     ]
@@ -141,8 +141,8 @@
     "objectID": "blog/posts/2026-07-29-segundo-post/index.html#quarto-es-maravilloso",
     "href": "blog/posts/2026-07-29-segundo-post/index.html#quarto-es-maravilloso",
     "title": "Segundo Post",
-    "section": "Quarto es maravilloso",
-    "text": "Quarto es maravilloso",
+    "section": "",
+    "text": "Hola esta es una prueba\nHoy participé en un taller del Grupo de usuari@s de R: Santiago sobre la creación de páginas web con Quarto y R. La explicación fue muy clara y me alegró encontrar una guía práctica en español.\nA continuación detallo una lista de sitios que pueden ser útiles y conocí en el taller.\n\nBootswatch: permite revisar distintos temas para usar en Quarto.\nFont awesome: para buscar íconos que podemos agregar al sitio web.\nCoolors: para encontrar una paleta de colores que se ajuste a nuestros gustos personales.\n\nAl finalizar el taller, realicé pequeños cambios en el color de la barra de navegación y los tipos de fuentes usando Google Fonts.\nLa información completa del taller y los materiales se encuentran en este link.",
     "crumbs": [
       "Segundo Post"
     ]

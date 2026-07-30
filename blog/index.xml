@@ -20,9 +20,18 @@
 
 
 
-<p><strong>Hola esta es una prueba</strong></p>
 <section id="quarto-es-maravilloso" class="level2">
 <h2 class="anchored" data-anchor-id="quarto-es-maravilloso">Quarto es maravilloso</h2>
+<p><strong>Hola esta es una prueba</strong></p>
+<p>Hoy participé en un taller del <a href="https://santiagorusers.github.io/"><em>Grupo de usuari@s de R: Santiago</em></a> sobre la creación de páginas web con <u><strong>Quarto</strong></u> y <u><strong>R</strong>.</u> La explicación fue muy clara y me alegró encontrar una guía práctica en español.</p>
+<p>A continuación detallo una lista de sitios que pueden ser útiles y conocí en el taller.</p>
+<ul>
+<li><p><a href="https://bootswatch.com/">Bootswatch</a>: permite revisar distintos temas para usar en Quarto.</p></li>
+<li><p><a href="https://fontawesome.com/">Font awesome</a>: para buscar íconos que podemos agregar al sitio web.</p></li>
+<li><p><a href="https://coolors.co/?home">Coolors</a>: para encontrar una paleta de colores que se ajuste a nuestros gustos personales.</p></li>
+</ul>
+<p>Al finalizar el taller, realicé pequeños cambios en el color de la barra de navegación y los tipos de fuentes usando <a href="https://fonts.google.com/?query=ve&amp;preview.script=Latn">Google Fonts</a>.</p>
+<p>La información completa del taller y los materiales se encuentran en este <a href="https://santiagorusers.github.io/posts/taller_julio_2026/">link</a>.</p>
 
 
 </section>
@@ -31,7 +40,7 @@
   <category>prueba</category>
   <guid>https://victoriaholguinr.github.io/blog/posts/2026-07-29-segundo-post/</guid>
   <pubDate>Wed, 29 Jul 2026 00:00:00 GMT</pubDate>
-  <media:content url="https://victoriaholguinr.github.io/blog/posts/2026-07-29-segundo-post/imagen.jpeg" medium="image" type="image/jpeg"/>
+  <media:content url="https://victoriaholguinr.github.io/blog/posts/2026-07-29-segundo-post/imagen.png" medium="image" type="image/png" height="81" width="144"/>
 </item>
 <item>
   <title>Welcome to my new site</title>
