@@ -1,0 +1,14 @@
+---
+title: Segundo Post
+description: "Esta es una prueba siguiendo un tutorial"
+date: '2026-07-29'
+image: "imagen.jpeg"
+categories:
+  - prueba
+  
+---
+**Hola esta es una prueba**
+
+## Quarto es maravilloso
+
+

@@ -25,3 +25,6 @@ Thumbs.db
 *.swp
 
 **/*.quarto_ipynb
+.Rproj.user
+.httr-oauth
+.quarto

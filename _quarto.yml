@@ -13,7 +13,7 @@ execute:
 
 website:
   title: "Victoria Holguin"
-  description: "Economist specializing in economics of education and applied econometrics."
+  description: "Blog personal."
   site-url: "https://victoriaholguinr.github.io/"      # -> https://username.github.io/reponame if it's a project site
   repo-url: "https://github.com/victoriaholguinr/victoriaholguinr.github.io"
   favicon: files/img/favicon.png
