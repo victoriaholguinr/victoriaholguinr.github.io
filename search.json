@@ -91,13 +91,6 @@
     "text": "National University of Engineering\n2026-2027 (expected)\n\n\n\nUniversidad Nacional de San Antonio Abad del Cusco\n2023"
   },
   {
-    "objectID": "blog/index.html",
-    "href": "blog/index.html",
-    "title": "Blog",
-    "section": "",
-    "text": "Welcome to my new site\n\n\n\nmeta\n\n\n\nWhy I built my personal website with Quarto, and what’s coming next.\n\n\n\n\n\nJul 16, 2026\n\n\n\n\n\nNo matching items"
-  },
-  {
     "objectID": "blog/posts/2026-07-16-welcome-post/index.html",
     "href": "blog/posts/2026-07-16-welcome-post/index.html",
     "title": "Welcome to my new site",
@@ -125,6 +118,33 @@
     "text": "¿Qué viene ahora?\nEsperen publicaciones sobre flujos de trabajo e informes de proyectos.",
     "crumbs": [
       "Welcome to my new site"
+    ]
+  },
+  {
+    "objectID": "blog/index.html",
+    "href": "blog/index.html",
+    "title": "Blog",
+    "section": "",
+    "text": "Segundo Post\n\n\n\nprueba\n\n\n\nEsta es una prueba siguiendo un tutorial\n\n\n\n\n\nJul 29, 2026\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome to my new site\n\n\n\nmeta\n\n\n\nWhy I built my personal website with Quarto, and what’s coming next.\n\n\n\n\n\nJul 16, 2026\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "blog/posts/2026-07-29-segundo-post/index.html",
+    "href": "blog/posts/2026-07-29-segundo-post/index.html",
+    "title": "Segundo Post",
+    "section": "",
+    "text": "Hola esta es una prueba",
+    "crumbs": [
+      "Segundo Post"
+    ]
+  },
+  {
+    "objectID": "blog/posts/2026-07-29-segundo-post/index.html#quarto-es-maravilloso",
+    "href": "blog/posts/2026-07-29-segundo-post/index.html#quarto-es-maravilloso",
+    "title": "Segundo Post",
+    "section": "Quarto es maravilloso",
+    "text": "Quarto es maravilloso",
+    "crumbs": [
+      "Segundo Post"
     ]
   },
   {

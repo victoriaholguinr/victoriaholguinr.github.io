@@ -8,9 +8,31 @@
 <title>Victoria Holguin</title>
 <link>https://victoriaholguinr.github.io/blog/</link>
 <atom:link href="https://victoriaholguinr.github.io/blog/index.xml" rel="self" type="application/rss+xml"/>
-<description>Economist specializing in economics of education and applied econometrics.</description>
-<generator>quarto-1.9.38</generator>
-<lastBuildDate>Thu, 16 Jul 2026 00:00:00 GMT</lastBuildDate>
+<description>Blog personal.</description>
+<generator>quarto-1.10.18</generator>
+<lastBuildDate>Wed, 29 Jul 2026 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>Segundo Post</title>
+  <link>https://victoriaholguinr.github.io/blog/posts/2026-07-29-segundo-post/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p><strong>Hola esta es una prueba</strong></p>
+<section id="quarto-es-maravilloso" class="level2">
+<h2 class="anchored" data-anchor-id="quarto-es-maravilloso">Quarto es maravilloso</h2>
+
+
+</section>
+
+ ]]></description>
+  <category>prueba</category>
+  <guid>https://victoriaholguinr.github.io/blog/posts/2026-07-29-segundo-post/</guid>
+  <pubDate>Wed, 29 Jul 2026 00:00:00 GMT</pubDate>
+  <media:content url="https://victoriaholguinr.github.io/blog/posts/2026-07-29-segundo-post/imagen.jpeg" medium="image" type="image/jpeg"/>
+</item>
 <item>
   <title>Welcome to my new site</title>
   <link>https://victoriaholguinr.github.io/blog/posts/2026-07-16-welcome-post/</link>
