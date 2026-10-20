@@ -1,1 +1,0 @@
-Replace with your logo, or delete the 'logo:' line in _quarto.yml if you don't have one.
