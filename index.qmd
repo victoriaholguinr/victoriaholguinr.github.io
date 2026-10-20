@@ -9,7 +9,7 @@ about:
   links:
     - icon: envelope
       text: Email
-      href: mailto:victoriaholguinr@gmail.com
+      href: mailto:victoria.holguin.r@uni.pe
     - icon: linkedin
       text: LinkedIn
       href: https://www.linkedin.com/in/victoriaholguinr
@@ -42,7 +42,7 @@ Program evaluation
 #### <i class="bi bi-mortarboard-fill"></i>  **MSc in Economics Engineering**
 National University of Engineering 
 
-2026-2027 (expected)
+2026-2028 (expected)
 
 #### <i class="bi bi-mortarboard-fill"></i>  **BA in Economics**
 Universidad Nacional de San Antonio Abad del Cusco
