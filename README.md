@@ -10,7 +10,7 @@ Built with [Quarto](https://quarto.org), deployed to GitHub Pages.
 ├── index.qmd                # home / about page (about: trestles template)
 ├── research/
 │   ├── index.qmd            # publications & working papers
-│   └── references.bib       # BibTeX for your own papers
+│   └── references.bib       # BibTeX 
 ├── projects/
 │   ├── index.qmd            # auto-generated grid (Quarto "listing")
 │   ├── example-shiny-dashboard.qmd
@@ -19,7 +19,9 @@ Built with [Quarto](https://quarto.org), deployed to GitHub Pages.
 │   ├── index.qmd            # auto-generated post list + RSS feed
 │   └── posts/
 │       ├── _metadata.yml    # freeze: true for the whole posts/ folder
-│       └── 2026-01-01-welcome-post/
+│       └── 2026-07-16-welcome-post/
+│           └── index.qmd
+│       └── 2026-07-29-segundo-post/
 │           └── index.qmd
 ├── styles/
 │   ├── styles.scss          # light theme: scss:defaults + scss:rules
@@ -37,43 +39,6 @@ Built with [Quarto](https://quarto.org), deployed to GitHub Pages.
     ├── workflows/publish.yml  # render + deploy on every push to main
     └── dependabot.yml         # keeps the Action versions current
 ```
-
-This mirrors the pattern used by most Quarto-based academic/personal
-sites (e.g. Andrew Heiss, Mine Çetinkaya-Rundel, Grant McDermott,
-Mickaël Canouil, Emil Hvitfeldt, Fernando Rios-Avila, Bastián Olea
-Herrera): an `about: trestles` landing page, a listing-driven blog and
-project index, a dedicated research/publications page, and a small
-SCSS file layered on top of a Bootswatch theme instead of a from-scratch
-stylesheet.
-
-## One-time setup
-
-1. **Rename placeholders.** Search the repo for `username`,
-   `Jane Doe`, and `jane.doe@example.com` and replace with your own.
-2. **Add real assets** in `files/img/` (profile photo, favicon,
-   optional logo) and `files/cv/cv.pdf`. Each placeholder folder has a
-   `*.README.txt` note telling you what belongs there — delete those
-   notes once you've added the real files.
-3. **Pick your accent colour.** Edit `$primary` / `$secondary` in
-   `styles/styles.scss` (and the dark-mode equivalents in
-   `styles-dark.scss`). Everything else (links, navbar, buttons)
-   derives from these two variables — avoid hard-coding new colours
-   elsewhere in the SCSS.
-4. **Install the icon extensions** used in `_quarto.yml`/`index.qmd`
-   (Font Awesome for `{{< fa ... >}}`, Academicons for
-   `{{< ai google-scholar >}}` / `{{< ai orcid >}}`):
-
-   ```bash
-   quarto add quarto-ext/fontawesome
-   quarto add schochastics/academicons
-   ```
-
-   This creates an `_extensions/` folder — commit it to version control.
-5. **Create the repo** on GitHub, named either `username.github.io`
-   (a *user site*, served at the domain root) or any other name (a
-   *project site*, served at `username.github.io/reponame/`). If you
-   go with a project site, update `site-url` and `repo-url` in
-   `_quarto.yml` accordingly.
 
 ## Local preview
 
