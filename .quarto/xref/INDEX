@@ -1,0 +1,32 @@
+{
+  "index.qmd": {
+    "index.html": "81e7e912"
+  },
+  "research/index.qmd": {
+    "index.html": "3e387330"
+  },
+  "404.qmd": {
+    "404.html": "6acb6c12"
+  },
+  "blog/index.qmd": {
+    "index.html": "4b0e8be8"
+  },
+  "blog/posts/2026-01-01-welcome-post/index.qmd": {
+    "index.html": "d703e7a8"
+  },
+  "projects/example-r-package.qmd": {
+    "example-r-package.html": "45fed808"
+  },
+  "projects/example-shiny-dashboard.qmd": {
+    "example-shiny-dashboard.html": "bcf7f0c8"
+  },
+  "projects/index.qmd": {
+    "index.html": "7e151506"
+  },
+  "blog/posts/2026-07-16-welcome-post/index.qmd": {
+    "index.html": "ee6e7f78"
+  },
+  "blog/posts/2026-07-29-segundo-post/index.qmd": {
+    "index.html": "2b14ef26"
+  }
+}
